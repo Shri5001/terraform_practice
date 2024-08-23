@@ -3,6 +3,6 @@ resource "aws_instance" "linux" {
   instance_type = "t2.micro"
   key_name = "shrikey"
   tags = {
-    Name="linux_instance"
+    Name="linux_yyy"
   }
 }
