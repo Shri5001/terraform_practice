@@ -16,15 +16,3 @@ resource "aws_s3_bucket" "yogita-bucket" {
   bucket = "shri5002-yogita"
   provider = aws.yd-profile
 }
-
-
-
-
-
-
-
-
-
-
-
-
